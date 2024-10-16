@@ -1,6 +1,8 @@
 console.log("Hello World");
 
 alert("New Ok ");
+console.log("HEHEHE");
+
 
 console.log("Hi my name is Steve Calvin And Gutom na ako");
 var a = 1;
